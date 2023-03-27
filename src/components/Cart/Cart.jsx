@@ -11,7 +11,7 @@ const Cart = (props) => {
     }   
      let tax=total*7/100;
 
-    console.log(cart)
+    
     return (
         <div className='cart'>
             <h3>Order Summary</h3>

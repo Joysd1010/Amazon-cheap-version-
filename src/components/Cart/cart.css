@@ -3,7 +3,7 @@
     padding: 20px;
     border-radius: 15px;
     margin: 0.5rem 0;
-}
-.cart {
     position: sticky;
+    top: 0;
+
 }
